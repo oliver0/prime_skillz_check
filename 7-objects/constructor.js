@@ -11,7 +11,7 @@ function RightTriangle(side1, side2, base){
     return (side1 * base) / 2;
   }
   function perimeter(){
-    side1 + side2 + base;
+    return side1 + side2 + base;
   }
 }
 // 2 - Create two instances of the RightTriangle
